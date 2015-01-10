@@ -1,6 +1,5 @@
 Strategy Pattern is behavioural pattern and works in runtime.
 
-
 The Output is just an example and every class can implement their own logic in the overridden methods.
 
 The Output:
