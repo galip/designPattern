@@ -1,0 +1,10 @@
+This is a wrong implementation of a Bridge pattern, Wrong Implementation 1.
+
+When this code runs, output will be like in the below.
+
+---- DP1 -----
+DP1 drawALine()
+DP1 drawACircle()
+---- DP2 -----
+DP2 drawLine()
+DP2 drawCircle()
